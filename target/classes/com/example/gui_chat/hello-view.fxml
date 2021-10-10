@@ -58,6 +58,7 @@
             <Insets bottom="1.0" left="1.0" right="1.0" />
          </padding>
       </HBox>
+      <Button prefWidth="Infinity" mnemonicParsing="false" text="Подключиться" />
    </children>
    <opaqueInsets>
       <Insets />
